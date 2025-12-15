@@ -8,3 +8,6 @@ data/**/*.h5
 # OS / IDE
 .DS_Store
 .ipynb_checkpoints/
+
+#virtual environment
+.venv/
